@@ -47,6 +47,4 @@ The project utilizes the [CoNLL-2003 dataset](https://huggingface.co/datasets/co
 - [HuggingFace Transformers](https://huggingface.co/transformers/)
 - [CoNLL-2003 Dataset](https://huggingface.co/datasets/conll2003)
 
-## Future Improvements
-- Enhance entity extraction accuracy with more crime-specific data.
-- Deploy the model as an API for real-time crime report analysis.
+
